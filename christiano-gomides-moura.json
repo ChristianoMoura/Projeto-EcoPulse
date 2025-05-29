@@ -1,0 +1,144 @@
+{
+    "Cadastro": {
+        "Titulo": "EcoPulse",
+        "Slogan": "Reduza sua pegada de carbono sem mudar seu estilo de vida",
+        "Botao": "Criar meu EcoScore"
+    },
+    "Descricao": {
+        "TituloExplicacao": "O que é EcoPulse?",
+        "Descricao": "EcoPulse é um serviço digital que conecta suas escolhas do dia a dia (como transporte, alimentação e consumo de energia) com ações ambientais reais. Usando inteligência artificial e APIs integradas com apps que você já usa, como Google Maps, iFood, Uber e outros, o EcoPulse analisa suas rotinas e:",
+        "ListaDescricao": ["Calcula automaticamente sua emissão de carbono.", "Sugere pequenas mudanças de hábito com grande impacto.", "Compensa suas emissões com plantio de árvores, apoio a energia limpa e reciclagem automatizada", "Te transforma em um Agente Verde certificado, com direito a vantagens exclusivas em empresas parceiras."],
+        "TituloBeneficios": "Como Funciona?",
+        "Beneficios": [
+            {
+                "Beneficio": "Conecte seus apps favoritos",
+                "Descricao": "Em poucos cliques, você sincroniza seus apps com o EcoPulse."
+            },
+            {
+                "Beneficio": "Receba seu EcoScore",
+                "Descricao": "Receba seu EcoScore"
+            },
+            {
+                "Beneficio": "Transforme impacto em ação",
+                "Descricao": "Compense suas emissões automaticamente ou manualmente, e receba recompensas por cada ação sustentável."
+            },
+            {
+                "Beneficio": "Compartilhe sua jornada",
+                "Descricao": "Compartilhamento fácil para redes sociais, com badges, metas e desafios entre amigos."
+            }
+
+        ]
+    },
+    "Comentarios": {
+        "Titulo": "O que os usuários estão dizendo",
+        "Feedbacks": [
+            {
+                "Comentario": " “Nunca imaginei que fosse tão fácil fazer diferença. Só conectei meus apps e pronto: já estou ajudando a reflorestar a Amazônia!” ",
+                "Nome": "— Camila F., São Paulo"
+            },
+            {
+                "Comentario": "“Transformei meu impacto em pontos, ganhei desconto no cinema e ainda ajudei uma ONG local. Isso sim é futuro!”",
+                "Nome": "— Rodrigo M., Recife"
+            },
+            {
+                "Comentario": "“Adoro ver meu progresso semanal e competir com meus amigos. É tipo um jogo… só que salvando o planeta!”",
+                "Nome": "— Lívia T., Belo Horizonte"
+            },
+            {
+                "Comentario":"",
+                "Nome":""
+            },
+            {
+                "Comentario":"",
+                "Nome":""
+            }
+        ],
+        "Propaganda": {
+            "Titulo": "Transforme suas escolhas em um mundo melhor.",
+            "Descricao": "Comece agora com o plano gratuito e veja como é simples ser parte da solução.",
+            "Botao": "Criar meu EcoScore",
+            "Slogan": "Leva menos de 2 minutos!"
+        }
+    },
+    "Assinaturas": {
+        "Titulo": "Planos Para Todos os Perfis",
+        "Planos": [
+            {
+                "Plano": "Plano Raiz",
+                "Vantagens": ["Acesso ao EcoScore básico", "Sugestões de melhorias sustentáveis", "Relatórios mensais de impacto", "Participação em desafios e ranking"],
+                "Botao": "Gratuito",
+                "Slogan": "Ideal para quem está começando e quer entender seu impacto."
+            },
+            {
+                "Plano": "Plano Folha",
+                "Vantagens": ["Tudo do plano Raiz", "Compensação automática mensal de carbono", "Plantio de 2 árvores/mês em seu nome", "Acesso a cupons e parcerias sustentáveis"],
+                "Botao": "R$19/mês",
+                "Slogan": "Perfeito para quem quer praticidade e impacto real"
+            },
+            {
+                "Plano": "Plano Floresta",
+                "Vantagens": ["Tudo dos planos anteriores", "Impacto triplo: compensação, educação e doação", "Acompanhamento em tempo real de projetos apoiados", "Badge exclusivo 'Agente Verde Pro'", "1 sessão de mentoria ambiental por mês" ],
+                "Botao": "R$49/mês",
+                "Slogan": "Para quem quer liderar a mudança."
+            },
+            {
+                "Plano": "",
+                "Vantagens": "",
+                "Botao": "",
+                "Slogan":""
+            },
+            {
+                "Plano": "",
+                "Vantagens": "",
+                "Botao": "",
+                "Slogan":""
+            }
+        ]
+    },
+    "FAQ": {
+        "Titulo": "FAQ",
+        "Perguntas": [
+            {
+                "Pergunta": "Como o EcoPulse calcula meu impacto?",
+                "Resposta": "Usamos dados dos apps conectados e modelos reconhecidos de cálculo de emissões..."
+            },
+            {
+                "Pergunta": "Preciso pagar para usar?",
+                "Resposta": "Não! Temos um plano gratuito com recursos essenciais. Planos pagos oferecem mais comodidades e impacto ampliado."
+            },
+            {
+                "Pergunta": "Minhas ações realmente fazem diferença?",
+                "Resposta": "Sim! Todas as compensações e ações são auditadas e ligadas a projetos reais, com impacto rastreável e transparente."
+            },
+            {
+                "Pergunta": "",
+                "Resposta":""
+            },
+            {
+                "Pergunta": "",
+                "Resposta":""
+            },
+            {
+                "Pergunta": "",
+                "Resposta":""
+            },
+            {
+                "Pergunta": "",
+                "Resposta":""
+            },
+            {
+                "Pergunta": "",
+                "Resposta":""
+            },
+            {
+                "Pergunta": "",
+                "Resposta":""
+            },
+            {
+                "Pergunta": "",
+                "Resposta":""
+            }
+        ]
+    },
+    "Cabecalho": ["© 2025 EcoPulse. Todos os direitos reservados.","Desenvolvido por Christiano Gomides Moura.", "Utilizar a extensão Live Server no VsCode."]
+}
