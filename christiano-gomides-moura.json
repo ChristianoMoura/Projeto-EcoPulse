@@ -43,14 +43,6 @@
             {
                 "Comentario": "“Adoro ver meu progresso semanal e competir com meus amigos. É tipo um jogo… só que salvando o planeta!”",
                 "Nome": "— Lívia T., Belo Horizonte"
-            },
-            {
-                "Comentario":"",
-                "Nome":""
-            },
-            {
-                "Comentario":"",
-                "Nome":""
             }
         ],
         "Propaganda": {
@@ -80,18 +72,6 @@
                 "Vantagens": ["Tudo dos planos anteriores", "Impacto triplo: compensação, educação e doação", "Acompanhamento em tempo real de projetos apoiados", "Badge exclusivo 'Agente Verde Pro'", "1 sessão de mentoria ambiental por mês" ],
                 "Botao": "R$49/mês",
                 "Slogan": "Para quem quer liderar a mudança."
-            },
-            {
-                "Plano": "",
-                "Vantagens": "",
-                "Botao": "",
-                "Slogan":""
-            },
-            {
-                "Plano": "",
-                "Vantagens": "",
-                "Botao": "",
-                "Slogan":""
             }
         ]
     },
@@ -109,36 +89,7 @@
             {
                 "Pergunta": "Minhas ações realmente fazem diferença?",
                 "Resposta": "Sim! Todas as compensações e ações são auditadas e ligadas a projetos reais, com impacto rastreável e transparente."
-            },
-            {
-                "Pergunta": "",
-                "Resposta":""
-            },
-            {
-                "Pergunta": "",
-                "Resposta":""
-            },
-            {
-                "Pergunta": "",
-                "Resposta":""
-            },
-            {
-                "Pergunta": "",
-                "Resposta":""
-            },
-            {
-                "Pergunta": "",
-                "Resposta":""
-            },
-            {
-                "Pergunta": "",
-                "Resposta":""
-            },
-            {
-                "Pergunta": "",
-                "Resposta":""
             }
         ]
-    },
-    "Cabecalho": ["© 2025 EcoPulse. Todos os direitos reservados.","Desenvolvido por Christiano Gomides Moura.", "Utilizar a extensão Live Server no VsCode."]
+    }
 }

@@ -91,13 +91,4 @@ botao.onclick = async () => {
         h3.textContent = listaPerguntas[i].Pergunta;
         p.textContent = listaPerguntas[i].Resposta;
     }
-
-    // Cabeçalho
-    const infos = document.querySelectorAll('footer p');
-    const listaInfos = dados.Cabecalho;
-
-    for (let i = 0; i < infos.length; i++) {
-        infos[i].textContent = listaInfos[i];
-    }
-
 }
